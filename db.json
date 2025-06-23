@@ -11,30 +11,6 @@
       "password": "1234",
       "carts": [],
       "isAdmin": true
-    },
-    {
-      "id": "9bd4810b-e0df-4e53-8a52-8997b192adb7",
-      "name": {
-        "firstname": "krishna",
-        "lastname": "behera"
-      },
-      "username": "KrishnaBehera10",
-      "email": "krishnakantbehera@gmail.com",
-      "password": "1234",
-      "carts": [],
-      "isAdmin": false
-    },
-    {
-      "id": "00812eb5-a57d-4807-af49-103be40e4029",
-      "name": {
-        "firstname": "krishna",
-        "lastname": "behera"
-      },
-      "username": "30daycoding",
-      "email": "krishnakantbehera28@gmail.com",
-      "password": "121",
-      "carts": [],
-      "isAdmin": false
     }
   ],
   "products": [
